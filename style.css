@@ -50,4 +50,25 @@ nav > figure > img {
 .main-title {
     display: flex;
     flex-direction: column;
+    padding: 1rem 10rem;
 }
+
+.box-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 0;
+    max-width: 500px;
+    margin-left: 10rem;
+}
+
+.content-box {
+    background: #FFFAC7;
+    color: #272121;
+    padding: 2rem;
+    gap: 2rem;
+    border-radius: 0.5rem;
+}
+
+
+
